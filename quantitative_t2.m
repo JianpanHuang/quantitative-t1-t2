@@ -12,7 +12,7 @@ bcg_thres = 0.3; % Threshold (normally 0~1) set for backgroud removal
 % rot_ang = 90;
 
 %--------------------Read result--------------------%
-load(data_path); % img: image series, vtr: TR list
+load(data_path); % img: image series, vte: TE list
 % img = fliplr(imrotate(img,rot_ang)); % Rearrange img_all
 
 %--------------------Get subject ROI for background removal--------------------%
