@@ -3,7 +3,7 @@ Quantitative T1 and T2 fitting using exponential functions
 
 Author: Jianpan Huang
 
-Email: jp.huang@cityu.edu.hk
+Email: jphuang@hku.hk
 
 Affiliation: Department of Biomedical Engineering, City University of Hong Kong, Hong Kong, China
 
